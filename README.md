@@ -9,13 +9,16 @@ Swinburne University of Technology Vietnam
 
 <br>
 
-clean.  
-think.  
+```
+clean.
+learn.
 build.
+repeat.
+```
 
 <br>
 
-[Portfolio](https://iamkai.vercel.app) • [LinkedIn](https://linkedin.com/kaiisme) • [Email](mailto:contact.panacea.dev@gmail.com)
+Portfolio · LinkedIn · Email
 
 <br>
 
